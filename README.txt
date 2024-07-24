@@ -1,4 +1,4 @@
-## **New York Genome Center Macmillian Summer 2024 intern Daniel Cha**
+New York Genome Center Macmillian Summer 2024 intern Daniel Cha
 
 Contact: kwonryuc@andrew.cmu.edu
 Advisor: Nyasha Chambwe

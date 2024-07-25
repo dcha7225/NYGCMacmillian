@@ -20,6 +20,7 @@ APGmapping/
 ├── analysis_code ***(Main Source Code)***
 │   ├── analyse.py **(Source Code)**
 │   ├── getPaths.sh **(generates txt file containing file paths)**
+│   ├── csvFilePaths.txt
 │   └── run.sh 
 ├── figures (all figures)
 │   ├── aligns

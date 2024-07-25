@@ -1,0 +1,39 @@
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01891.csv	HG01891
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02257.csv	HG02257
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02486.csv	HG02486
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02559.csv	HG02559
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02572.csv	HG02572
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02622.csv	HG02622
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02630.csv	HG02630
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02717.csv	HG02717
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02886.csv	HG02886
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG03453.csv	HG03453
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG03516.csv	HG03516
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG03540.csv	HG03540
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG03579.csv	HG03579 
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02055.csv	HG02055
+African Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG03098.csv	HG03098
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG00735.csv	HG00735
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG00741.csv	HG00741
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01071.csv	HG01071
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01106.csv	HG01106
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01123.csv	HG01123
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01175.csv	HG01175
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01258.csv	HG01258
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01358.csv	HG01358
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01361.csv	HG01361
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01928.csv	HG01928
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01952.csv	HG01952
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01978.csv	HG01978
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02148.csv	HG02148
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG00733.csv	HG00733
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01109.csv	HG01109
+American Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG01243.csv	HG01243	
+East Asian Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG00438.csv	HG00438
+East Asian Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG00621.csv	HG00621
+East Asian Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG00673.csv	HG00673
+East Asian Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG02080.csv	HG02080		
+South Asian Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG03492.csv	HG03492
+European Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/HG002.csv	HG002
+European Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/GRCh38.csv	GRCh38
+European Ancestry	/grid/chambwe/home/dcha/APGmapping/alignmentCSVs/T2T.csv	T2T

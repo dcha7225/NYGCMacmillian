@@ -21,29 +21,6 @@ APGmapping/
 │   ├── analyse.py **(Source Code)**
 │   ├── getPaths.sh **(generates txt file containing file paths)**
 │   └── run.sh 
-├── APG_GRCh38 ***(sam files and alignment scripts for GRCh38)***
-│   ├── APG_GRCh38alignment.sam
-│   ├── APG_GRCh38.sh
-│   ├── APG_GRCh38.sh.e7619935
-│   └── APG_GRCh38.sh.o7619935
-├── APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)***
-│   ├── HPRCSamPaths.txt
-│   ├── samFiles
-│   │   ├── APG_HG002alignment.sam
-│   │   ├── APG_HG00438alignment.sam
-│   │   ├── APG_HG01891alignment.sam
-...
-│   └── setup
-│       ├── alignParallel.sh
-│       ├── downloadLinks.tsv
-│       ├── logs
-│       ├── progress.log
-│       ├── refPaths.txt
-│       ├── setupData.sh
-├── APG_T2T ***(sam files and alignment scripts for T2T-CHM13)***
-│   ├── APG_T2Talignment.bam
-│   ├── APG_T2Talignment.sam
-│   └── APG_T2T.sh
 ├── figures (all figures)
 │   ├── aligns
 │   │   ├── cumul_reasonable_chart.png
@@ -83,3 +60,26 @@ APGmapping/
     ├── download.sh.e7606030
     └── download.sh.o7606030
 
+APG_GRCh38 ***(sam files and alignment scripts for GRCh38)***
+├── APG_GRCh38alignment.sam
+├── APG_GRCh38.sh
+├── APG_GRCh38.sh.e7619935
+└── APG_GRCh38.sh.o7619935
+APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)***
+├── HPRCSamPaths.txt
+├── samFiles
+│   ├── APG_HG002alignment.sam
+│   ├── APG_HG00438alignment.sam
+│   ├── APG_HG01891alignment.sam
+...
+└── setup
+    ├── alignParallel.sh
+    ├── downloadLinks.tsv
+    ├── logs
+    ├── progress.log
+    ├── refPaths.txt
+    └── setupData.sh
+APG_T2T ***(sam files and alignment scripts for T2T-CHM13)***
+├── APG_T2Talignment.bam
+├── APG_T2Talignment.sam
+└── APG_T2T.sh

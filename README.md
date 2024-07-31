@@ -3,11 +3,19 @@ New York Genome Center Macmillian Summer 2024 intern Daniel Cha
 Contact: kwonryuc@andrew.cmu.edu
 Advisor: Nyasha Chambwe
 
-Directory Heirarchy
+Directory Heirarchy:
 
+alignmentCSVs ***(Contains outputs of "generateRefCSV()")***
+alignmentTables ***(Contains outputs of "create_alignment_table(), used for plotting chromosome ideogram")***
+analysis_code ***(Main Source Code)***
+analyse.py **(Source Code)**
+getPaths.sh **(generates txt file containing file paths)**
+APG_GRCh38 ***(sam files and alignment scripts for GRCh38)***
+APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)***
+APG_T2T ***(sam files and alignment scripts for T2T-CHM13)***
 ```
 APGmapping/
-├── alignmentCSVs ***(Contains outputs of "generateRefCSV()")***
+├── alignmentCSVs 
 │   ├── GRCh38.csv
 │   ├── GRCh38_withoutAlts.csv
 │   ├── HG002.csv
@@ -16,12 +24,12 @@ APGmapping/
 │   ├── HG03540.csv
 │   ├── HG03579.csv
 │   └── T2T.csv
-├── alignmentTables ***(Contains outputs of "create_alignment_table(), used for plotting chromosome ideogram")***
+├── alignmentTables
 │   ├── alignments_with_names.xlsx
 │   └── alignments.xlsx
-├── analysis_code ***(Main Source Code)***
-│   ├── analyse.py **(Source Code)**
-│   ├── getPaths.sh **(generates txt file containing file paths)**
+├── analysis_code 
+│   ├── analyse.py
+│   ├── getPaths.sh
 │   ├── csvFilePaths.txt
 │   └── run.sh 
 ├── figures (all figures)
@@ -63,12 +71,12 @@ APGmapping/
     ├── download.sh.e7606030
     └── download.sh.o7606030
 
-APG_GRCh38 ***(sam files and alignment scripts for GRCh38)***
+APG_GRCh38
 ├── APG_GRCh38alignment.sam
 ├── APG_GRCh38.sh
 ├── APG_GRCh38.sh.e7619935
 └── APG_GRCh38.sh.o7619935
-APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)***
+APG_HPRC
 ├── HPRCSamPaths.txt
 ├── samFiles
 │   ├── APG_HG002alignment.sam
@@ -82,7 +90,7 @@ APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)***
     ├── progress.log
     ├── refPaths.txt
     └── setupData.sh
-APG_T2T ***(sam files and alignment scripts for T2T-CHM13)***
+APG_T2T
 ├── APG_T2Talignment.bam
 ├── APG_T2Talignment.sam
 └── APG_T2T.sh

@@ -5,7 +5,7 @@ Advisor: Nyasha Chambwe
 
 Directory Heirarchy
 
-'''
+```
 APGmapping/
 ├── alignmentCSVs ***(Contains outputs of "generateRefCSV()")***
 │   ├── GRCh38.csv
@@ -86,4 +86,4 @@ APG_T2T ***(sam files and alignment scripts for T2T-CHM13)***
 ├── APG_T2Talignment.bam
 ├── APG_T2Talignment.sam
 └── APG_T2T.sh
-'''
+```

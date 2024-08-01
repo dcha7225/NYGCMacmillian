@@ -5,14 +5,14 @@ Advisor: Nyasha Chambwe
 
 Directory Heirarchy:
 
-alignmentCSVs ***(Contains outputs of "generateRefCSV()")***
-alignmentTables ***(Contains outputs of "create_alignment_table(), used for plotting chromosome ideogram")***
-analysis_code ***(Main Source Code)***
-analyse.py **(Source Code)**
-getPaths.sh **(generates txt file containing file paths)**
-APG_GRCh38 ***(sam files and alignment scripts for GRCh38)***
-APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)***
-APG_T2T ***(sam files and alignment scripts for T2T-CHM13)***
+alignmentCSVs ***(Contains outputs of "generateRefCSV()")*** <br>
+alignmentTables ***(Contains outputs of "create_alignment_table(), used for plotting chromosome ideogram")*** <br>
+analysis_code ***(Main Source Code)*** <br>
+analyse.py **(Source Code)** <br>
+getPaths.sh **(generates txt file containing file paths)** <br>
+APG_GRCh38 ***(sam files and alignment scripts for GRCh38)*** <br>
+APG_HPRC ***(sam files and alignment scripts for HPRC assemblies)*** <br>
+APG_T2T ***(sam files and alignment scripts for T2T-CHM13)*** <br>
 ```
 APGmapping/
 ├── alignmentCSVs 

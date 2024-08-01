@@ -9,6 +9,7 @@ alignmentCSVs **(Contains outputs of "generateRefCSV()")** <br>
 alignmentTables **(Contains outputs of "create_alignment_table(), used for plotting chromosome ideogram")** <br>
 analysis_code **(Main Source Code)** <br>
 analyse.py **(Source Code)** <br>
+plots.py **(Plotting code to create chromosome ideogram)**
 getPaths.sh **(generates txt file containing file paths)** <br>
 APG_GRCh38 **(sam files and alignment scripts for GRCh38)** <br>
 APG_HPRC **(sam files and alignment scripts for HPRC assemblies)** <br>
@@ -49,7 +50,7 @@ APGmapping/
 │   │   ├── chromosome_ideogram_with_density_heatmap_unique_regions_bins.png
 │   │   ├── chromosome_ideogram_with_density_heatmap_unique_regions.png
 │   │   ├── chromosome_plot_with_density_heatmap_unique_regions.png
-│   │   ├── plots.py **(Plotting code to create chromosome ideogram)**
+│   │   ├── plots.py
 │   │   └── run_script.sh
 │   ├── histograms
 │   │   ├── coverage_histo.png
